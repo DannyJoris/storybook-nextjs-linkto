@@ -1,4 +1,6 @@
-import LinkTo, { linkTo } from '@storybook/addon-links/react';
+import LinkTo from '@storybook/addon-links/react';
+import { linkTo } from '@storybook/addon-links';
+
 import type { Meta } from '@storybook/react';
 
 import { LinkToExample } from './LinkToExample';
